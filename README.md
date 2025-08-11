@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World I'm Rega Arzula Akbar 👋
 
 <!--
 **regaarz/regaarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
